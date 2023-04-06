@@ -1,0 +1,16 @@
+table{
+	margin-top: 50px;
+	text-align: center;
+	background: rgb(170, 39, 39);
+	color: rgb(12, 11, 11);
+}
+
+#show th, #show td{
+	padding: 13px;
+}
+
+#btna td input{
+	width: 100%;
+}
+Footer
+© 2023 GitHub
